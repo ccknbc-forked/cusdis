@@ -48,7 +48,7 @@
     "milligram": "^1.4.1",
     "mini-capture": "^0.1.1",
     "nanoid": "^3.1.22",
-    "next": "^12",
+    "next": "^12.1.6",
     "next-auth": "3.15.5",
     "next-connect": "^0.10.1",
     "nodemailer": "^6.5.0",
