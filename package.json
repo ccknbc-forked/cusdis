@@ -49,7 +49,7 @@
     "mini-capture": "^0.1.1",
     "nanoid": "^3.1.22",
     "next": "^12",
-    "next-auth": "3.21.1",
+    "next-auth": "3.29.8",
     "next-connect": "^0.10.1",
     "nodemailer": "^6.5.0",
     "postcss": "^8.2.10",
