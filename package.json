@@ -34,7 +34,7 @@
     "@hapi/boom": "^9.1.2",
     "@prisma/client": "^3.14.0",
     "@sendgrid/mail": "^7.4.2",
-    "@sentry/node": "^6.3.1",
+    "@sentry/node": "^6.19.7",
     "@sentry/tracing": "^6.3.1",
     "autoprefixer": "^10.2.5",
     "axios": "^0.21.1",
