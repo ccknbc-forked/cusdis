@@ -68,7 +68,7 @@
     "svelte": "^3.37.0",
     "svelte-preprocess": "^4.7.0",
     "tailwindcss": "^2.1.1",
-    "turndown": "^7.0.0",
+    "turndown": "^7.2.2",
     "vite": "^2.1.5",
     "xml2json": "^0.12.0"
   },
