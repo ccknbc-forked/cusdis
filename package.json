@@ -37,7 +37,7 @@
     "@mantine/next": "^6.0.16",
     "@mantine/notifications": "^6.0.16",
     "@prisma/client": "^5.0.0",
-    "@sendgrid/mail": "^7.4.2",
+    "@sendgrid/mail": "^8.0.0",
     "@sentry/node": "^6.3.1",
     "@sentry/tracing": "^6.3.1",
     "autoprefixer": "^10.2.5",
